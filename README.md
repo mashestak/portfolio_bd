@@ -9,3 +9,5 @@
 ## [Лабораторная работа №6 - Проект БД в MySQL Workbench на основе ЛР №5](https://docs.google.com/document/d/1ArHgnxyIvXhonqs3ltWL8bsOr5haIFKj/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
 ## Лабораторная работа №7 - Реализовать реляционную  модель данных в MySQL Worknbench
 ## [ИСР](https://docs.google.com/document/d/1o1QaB4XaLNwAET9sMq5svXVwCGcHmXdF/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
+
+## [Проект](https://docs.google.com/document/d/1Y_-c5Qj4WvBqQAvUapYnfkyJiiQB1pub/edit?usp=sharing&ouid=108764732630822905990&rtpof=true&sd=true)
