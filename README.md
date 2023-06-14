@@ -7,4 +7,5 @@
 ## [Лабораторная работа №4 - Решение задач реляционной алгебры](https://docs.google.com/document/d/118kRrqJC2ckN0vlhM3tduiAAeIg9VUIU/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
 ## [Лабораторная работа №5 - Проектирование реляционной базы данных на основе исходного набора информации, нормализация которой соответствует НФБК](https://docs.google.com/document/d/1H-LFGeZVzcNm4KzPMTbFgGmga2LS6d9R/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
 ## [Лабораторная работа №6 - Проект БД в MySQL Workbench на основе ЛР №5](https://docs.google.com/document/d/1ArHgnxyIvXhonqs3ltWL8bsOr5haIFKj/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
-## [Лабораторная работа №7 - ]()
+## Лабораторная работа №7 - Реализовать реляционную  модель данных в MySQL Worknbench
+## [ИСР](https://docs.google.com/document/d/1o1QaB4XaLNwAET9sMq5svXVwCGcHmXdF/edit?usp=sharing&ouid=112193372987862525874&rtpof=true&sd=true)
